@@ -1,0 +1,4 @@
+﻿  Lab1_Graph.cpp
+C:\Users\Little Bro\source\repos\Lab1_Graph\Lab1_Graph\Lab1_Graph.cpp(35,32): warning C4305: аргумент: усечение из "double" в "GLclampf"
+C:\Users\Little Bro\source\repos\Lab1_Graph\Lab1_Graph\Lab1_Graph.cpp(35,27): warning C4305: аргумент: усечение из "double" в "GLclampf"
+  Lab1_Graph.vcxproj -> C:\Users\Little Bro\source\repos\Lab1_Graph\x64\Debug\Lab1_Graph.exe
